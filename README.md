@@ -1,5 +1,7 @@
 # B2C Webmail
 
+> **Project page:** [B2C Webmail](https://bigblueceiling.com/projects/b2c-webmail/) on [Big Blue Ceiling](https://bigblueceiling.com/)
+
 A lightweight tool for sending HTML emails via Gmail. Supports managed email lists, BCC group sends, and three UI options: PyQt6 (desktop), React (web), and Gradio (web).
 
 ## Setup
